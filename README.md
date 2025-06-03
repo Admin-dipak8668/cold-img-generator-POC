@@ -1,1 +1,1 @@
-# cold-img-generator-POC
+# cold-email-generator-POC
