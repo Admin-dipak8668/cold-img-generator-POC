@@ -1,0 +1,47 @@
+{
+  "build": "h2466b09_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libsqlite 3.50.0 h67fdade_0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\sqlite-3.50.0-h2466b09_0",
+  "features": "",
+  "files": [
+    "Library/bin/sqlite3.exe",
+    ".nonadmin"
+  ],
+  "fn": "sqlite-3.50.0-h2466b09_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\sqlite-3.50.0-h2466b09_0",
+    "type": 1
+  },
+  "md5": "62ac646eb576e0883d746ade587ac5e6",
+  "name": "sqlite",
+  "package_tarball_full_path": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\sqlite-3.50.0-h2466b09_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/sqlite3.exe",
+        "path_type": "hardlink",
+        "sha256": "0d65142c06b71377871e16132cae702e9e19958f7cce026d41c955cde6d2cc86",
+        "sha256_in_prefix": "0d65142c06b71377871e16132cae702e9e19958f7cce026d41c955cde6d2cc86",
+        "size_in_bytes": 2356736
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "216be8d0beef8c2b75a977e18b73ea25cbde4eee51e33f6094ff62c76bf5f0d1",
+  "size": 1105359,
+  "subdir": "win-64",
+  "timestamp": 1748550307463,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sqlite-3.50.0-h2466b09_0.conda",
+  "version": "3.50.0"
+}
